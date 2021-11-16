@@ -1,0 +1,16 @@
+EmployeeID,CardNo,FirstName,LastName,Gender,Title,ManagerID,HireDate,Salary,BirthDate,MaritalStatus,Active 
+1,3405-0567,Sawant,Agarwal,M,Chief Executive Officer,,2011-06-10,245000,1975-04-19,M,True
+110,4405-9045,Suraj,Saxena,M,Marketing Manager,3,2016-03-12,150000,1984-05-19,M,True
+304,5405-7707,Vishal,Gupta,M,Senior Sales Representative,2,2014-05-20,40000,1987-01-16,M,True
+2,3405-0504,Ramana,Sridhar,M,Vice President of Sales,1,2014-10-23,190000,1985-01-23,M,True
+274,5405-9452,Kusuma,Jain,F,Sales Junior,285,2020-01-29,24000,1996-02-05,U,False
+275,4459-5940,Girish,Mudaliyaar,M,Senior South Marketing,3,2011-04-20,175000,1983-09-11,M,True
+3,4405-7809,Syed,Mohinuddin,M,Makering Specialist,2,2014-08-10,1750000,1987-12-10,M,True
+285,5405-0450,Ashwini,Jadeja,M,Sales Representative,304,2012-06-28,600000,1990-11-04,U,False
+301,5405-8594,Saroja,Akshay,F,Sales Junior,285,2020-05-03,25000,1998-11-10,U,False
+302,5405-3450,Naveen,Paul,M,Sales Junior,285,2021-02-15,25000,1997-04-06,U,False
+303,5405-1203,Moni,Patel,F,Sales Rep ,304,2020-09-11,250000,1994-04-12,U,False
+407,6405-1034,Mohit,P,M,Senior Accounting,275,2019-05-04,40000,1988-08-01,M,True
+114,4404-2345,Sri,Keertana,M,Marketing,110,2011-04-12,35000,1993-03-12,M,False
+310,5405-1020,Parag,Giri,M,Sales,304,2011-05-12,31000,1984-01-03,M,False
+410,6405-1030,Judie,Gomes,F,Accountaing,407,2020-12-20,22000,1996-01-29,F,False
